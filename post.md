@@ -12,7 +12,7 @@ Aenean auctor orci id nunc **volutpat semper**. Mauris laoreet velit euismod jus
 
 Ut quis elit quis nisi dapibus elementum ac sit amet ligula. 
 
-```
+```javascript
 var myObj = {
   "firstName": "John",
   "lastName": "Smith",
