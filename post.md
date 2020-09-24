@@ -15,11 +15,15 @@ Aenean auctor orci id nunc **volutpat semper**. Mauris laoreet velit euismod jus
 Ut quis elit quis nisi dapibus elementum ac sit amet ligula. 
 
 ```
-{
+**var** myObj **= {**
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
-}
+}**
+
+**function** test**(){**
+    **return** 1**;**
+**}**
 ``` 
 
 Duis lobortis dui at purus porta, sed semper nisi vehicula.
